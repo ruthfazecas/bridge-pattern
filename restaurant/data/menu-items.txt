@@ -1,0 +1,15 @@
+1|Pizza menu|4
+1|Capricioasa|FOOD|24
+2|Quattro stagioni|FOOD|25
+3|Margherita|FOOD|20
+4|Prosciuto e funghi|FOOD|24
+
+2|Pasta menu|3
+1|Carbonara|FOOD|22
+2|Sea food|FOOD|23
+3|Gnochi|FOOD|24
+
+3|Meat menu|3
+1|Chicken|FOOD|15
+2|Hamburger|FOOD|12
+3|Steak|FOOD|20
