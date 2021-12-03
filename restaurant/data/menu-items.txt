@@ -13,3 +13,20 @@
 1|Chicken|FOOD|15
 2|Hamburger|FOOD|12
 3|Steak|FOOD|20
+
+4|Dressing menu|3
+1|Ketchup|2
+2|Mayo|2
+3|Tzatziki|2
+
+5|Desert menu|2
+1|Lava cake|15
+2|Icecream|10
+
+6|Drinks menu|6
+1|water|5
+2|cola|10
+3|fanta|10
+4|lemonade|15
+5|fresh|15
+6|coffee|10
